@@ -1,5 +1,17 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>DefaultButtonStyle.qml</file>
+        <file>images/media-eject-4.png</file>
+        <file>images/media-playback-pause-4.png</file>
+        <file>images/media-playback-start-4.png</file>
+        <file>images/media-playback-stop-4.png</file>
+        <file>images/media-record-4.png</file>
+        <file>images/media-seek-backward-4.png</file>
+        <file>images/media-seek-forward-4.png</file>
+        <file>images/media-skip-backward-4.png</file>
+        <file>images/media-skip-forward-4.png</file>
+        <file>main.cpp</file>
+        <file>ImageButton.qml</file>
     </qresource>
 </RCC>
